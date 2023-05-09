@@ -10,7 +10,7 @@
   "licensesUrl": "https://example.com/licensing.html",
   "dependencies": {
     "com.unity.textmeshpro": "3.0.6",
-	"UniTask.2.3.3.unitypackage"
+	"com.unity.render-pipelines.universal": "10.6.0"
  },
   "author": {
     "name": "GFS",
