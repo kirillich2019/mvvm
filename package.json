@@ -1,0 +1,20 @@
+{
+  "name": "com.gfs.mwwm",
+  "version": "1.0.0",
+  "displayName": "MVVM",
+  "description": "MVVM System",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+	"UniTask.2.3.3.unitypackage"
+ },
+  "author": {
+    "name": "GFS",
+    "email": "gfs@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
